@@ -13,7 +13,7 @@ npm install zenn-cli@latest
 
 記事の作成
 ```
-npz zenn new:article
+npx zenn new:article
 ```
 
 プレビュー
