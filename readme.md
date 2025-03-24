@@ -1,31 +1,31 @@
 # zenn
-## 使用方法
-zenn cli のインストール
-```
-npm init
-npx install zenn-cli
-```
+## how to use
+* install zenn cli
+    ```
+    npm init
+    npm install zenn-cli
+    ```
 
-zenn cli のアップデート
-```
-npm install zenn-cli@latest
-```
+* update zenn cli
+    ```
+    npm install zenn-cli@latest
+    ```
 
-記事の作成
-```
-npx zenn new:article
-```
+* create a new article
+    ```
+    npx zenn new:article
+    ```
 
-プレビュー
-```
-npx zenn preview
-```
+* preview
+    ```
+    npx zenn preview
+    ```
 
 > [!WARNING]
-> ディレクトリからファイルを削除しても記事は消えません。  
-> 削除は [ダッシュボード](https://zenn.dev/dashboard) から行ってください。
+Even if you delete a file from the directory, the article will not be removed.
+To delete an article, please do so from the [dashboard](https://zenn.dev/dashboard).
 
-##  参考文献
-* [環境構築](https://zenn.dev/zenn/articles/install-zenn-cli)
-* [使い方](https://zenn.dev/zenn/articles/zenn-cli-guide)
+##  references
+* [install zenn cli](https://zenn.dev/zenn/articles/install-zenn-cli)
+* [how to manage articles and books with zenn cli](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
