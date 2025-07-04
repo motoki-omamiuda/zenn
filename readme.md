@@ -1,4 +1,6 @@
 # zenn
+account: [@mamech](https://zenn.dev/mamech)
+
 ## how to use
 * install zenn cli
     ```
