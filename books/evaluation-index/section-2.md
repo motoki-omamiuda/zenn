@@ -1,9 +1,6 @@
 ---
-title: "性能評価指標と意味"
-emoji: "🔖"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Accuracy", "Recall", "Precision", "F値", "Python"]
-published: true
+title: "いろいろ"
+free: true
 ---
 # さまざまな性能評価指標とその意味 
 
