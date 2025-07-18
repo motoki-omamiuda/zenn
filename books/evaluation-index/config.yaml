@@ -1,0 +1,7 @@
+title: "データ分析の評価指標"
+summary: "機械学習やデータ分析におけるさまざまな評価指標について解説します。"
+topics: ["評価指標"] # トピック（5つまで）
+published: true
+price: 0 # 有料の場合200〜5000
+chapters:
+  - section-1
