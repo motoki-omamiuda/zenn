@@ -5,3 +5,4 @@ published: true
 price: 0 # 有料の場合200〜5000
 chapters:
   - section-1
+  - section-2
