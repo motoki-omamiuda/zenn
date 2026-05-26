@@ -1,0 +1,19 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "* install zenn cli     ```     npm init     npm install zenn-cli     ```",
+  "repository": {
+    "type": "git",
+    "url": "git@private:motoki-omamiuda/zenn.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.2.1"
+  }
+}
